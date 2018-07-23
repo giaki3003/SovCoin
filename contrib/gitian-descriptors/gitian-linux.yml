@@ -1,5 +1,5 @@
 ---
-name: "sov-linux-0.1.2"
+name: "sov-linux-1.0.2"
 enable_cache: true
 suites:
 - "trusty"

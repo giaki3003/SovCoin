@@ -1,5 +1,5 @@
 ---
-name: "sov-raspberry-0.12"
+name: "sov-raspberry-1.0.2"
 enable_cache: true
 suites:
 - "precise"
