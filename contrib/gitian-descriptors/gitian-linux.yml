@@ -1,5 +1,5 @@
 ---
-name: "sov-linux-0.12"
+name: "sov-linux-0.1.2"
 enable_cache: true
 suites:
 - "trusty"
@@ -20,7 +20,7 @@ packages:
 - "python"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
-- "url": "https://github.com/sovcrypto/sov.git"
+- "url": "https://github.com/giaki3003/SovCoin.git"
   "dir": "sov"
 files: []
 script: |
