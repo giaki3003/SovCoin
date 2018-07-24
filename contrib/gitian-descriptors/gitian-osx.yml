@@ -22,8 +22,6 @@ packages:
 - "ca-certificates"
 - "python"
 - "libevent-dev"
-- "libevent-2.1-6"
-- "dlang-libevent"
 - "libevent1-dev"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
